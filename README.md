@@ -30,11 +30,11 @@ g++ -o modcalc index.cpp
 
 ### 🌐 Option 2: Run on GDB Online
 
-You can run this code online using [GDB Online](https://www.gdbonline.com/), a free web-based C++ compiler.
+You can run this code online using [GDB Online](https://www.onlinegdb.com/online_c++_compiler), a free web-based C++ compiler.
 
 #### 🔗 Steps:
 
-1. Go to: [https://www.gdbonline.com/online-gdb](https://www.onlinegdb.com/online_c++_compiler)
+1. Go to: [https://www.onlinegdb.com/online_c++_compiler](https://www.onlinegdb.com/online_c++_compiler).
 2. Copy and paste the contents of `index.cpp` into the editor.
 3. Scroll down to the **Standard Input** box.
 4. Enter the input as expected by the program. Example:
