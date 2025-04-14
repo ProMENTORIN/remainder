@@ -24,4 +24,20 @@ This C++ program provides two powerful number theory-based calculators:
 Use any modern C++ compiler. Example with `g++`:
 
 ```bash
-g++ -o modcalc main.cpp
+g++ -o modcalc index.cpp
+./modcalc
+```
+
+### 🌐 Option 2: Run on GDB Online
+
+You can run this code online using [GDB Online](https://www.gdbonline.com/), a free web-based C++ compiler.
+
+#### 🔗 Steps:
+
+1. Go to: [https://www.gdbonline.com/online-gdb](https://www.gdbonline.com/online-gdb)
+2. Select **Language**: `C++`.
+3. Copy and paste the contents of `main.cpp` into the editor.
+4. Scroll down to the **Standard Input** box.
+5. Enter the input as expected by the program. Example:
+6. Click **"Run"** to execute the program.
+7. View the output in the **Output** section.
