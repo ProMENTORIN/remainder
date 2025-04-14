@@ -34,10 +34,9 @@ You can run this code online using [GDB Online](https://www.gdbonline.com/), a f
 
 #### 🔗 Steps:
 
-1. Go to: [https://www.gdbonline.com/online-gdb](https://www.gdbonline.com/online-gdb)
-2. Select **Language**: `C++`.
-3. Copy and paste the contents of `index.cpp` into the editor.
-4. Scroll down to the **Standard Input** box.
-5. Enter the input as expected by the program. Example:
-6. Click **"Run"** to execute the program.
-7. View the output in the **Output** section.
+1. Go to: [https://www.gdbonline.com/online-gdb](https://www.onlinegdb.com/online_c++_compiler)
+2. Copy and paste the contents of `index.cpp` into the editor.
+3. Scroll down to the **Standard Input** box.
+4. Enter the input as expected by the program. Example:
+5. Click **"Run"** to execute the program.
+6. View the output in the **Output** section.
