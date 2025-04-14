@@ -36,7 +36,7 @@ You can run this code online using [GDB Online](https://www.gdbonline.com/), a f
 
 1. Go to: [https://www.gdbonline.com/online-gdb](https://www.gdbonline.com/online-gdb)
 2. Select **Language**: `C++`.
-3. Copy and paste the contents of `main.cpp` into the editor.
+3. Copy and paste the contents of `index.cpp` into the editor.
 4. Scroll down to the **Standard Input** box.
 5. Enter the input as expected by the program. Example:
 6. Click **"Run"** to execute the program.
